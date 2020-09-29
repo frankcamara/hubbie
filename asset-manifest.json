@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/hubbie/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hubbie/static/js/main.a04643b4.chunk.js",
-    "main.js.map": "/hubbie/static/js/main.a04643b4.chunk.js.map",
+    "main.css": "/hubbie/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hubbie/static/js/main.68500530.chunk.js",
+    "main.js.map": "/hubbie/static/js/main.68500530.chunk.js.map",
     "runtime-main.js": "/hubbie/static/js/runtime-main.b93ad5ce.js",
     "runtime-main.js.map": "/hubbie/static/js/runtime-main.b93ad5ce.js.map",
-    "static/js/2.4cdc8102.chunk.js": "/hubbie/static/js/2.4cdc8102.chunk.js",
-    "static/js/2.4cdc8102.chunk.js.map": "/hubbie/static/js/2.4cdc8102.chunk.js.map",
+    "static/js/2.328646a1.chunk.js": "/hubbie/static/js/2.328646a1.chunk.js",
+    "static/js/2.328646a1.chunk.js.map": "/hubbie/static/js/2.328646a1.chunk.js.map",
     "index.html": "/hubbie/index.html",
-    "precache-manifest.8ba6262769ebeda49110f625f4c75fdf.js": "/hubbie/precache-manifest.8ba6262769ebeda49110f625f4c75fdf.js",
+    "precache-manifest.5b04aaf57e282f8373bbfe752fcd1be5.js": "/hubbie/precache-manifest.5b04aaf57e282f8373bbfe752fcd1be5.js",
     "service-worker.js": "/hubbie/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/hubbie/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4cdc8102.chunk.js.LICENSE.txt": "/hubbie/static/js/2.4cdc8102.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hubbie/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/hubbie/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.328646a1.chunk.js.LICENSE.txt": "/hubbie/static/js/2.328646a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b93ad5ce.js",
-    "static/js/2.4cdc8102.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a04643b4.chunk.js"
+    "static/js/2.328646a1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.68500530.chunk.js"
   ]
 }
